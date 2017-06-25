@@ -54,3 +54,7 @@ sudo add-apt-repository ppa:tista/adapta
 sudo apt-get update
 sudo apt install adapta-gtk-them
 ```
+45d82c5b66c0dc26ef6b585173b2c3248bac7490
+
+https://github.com/emanpatricio/Zesty-Zapus.git
+git remote add origin https://emanpatricio%40gmail.com:45d82c5b66c0dc26ef6b585173b2c3248bac7490@github.com/Zesty-Zapus.git
